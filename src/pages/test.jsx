@@ -1,5 +1,5 @@
 import { VscBug } from "react-icons/vsc";
-import Question from "./question"
+import Question from "../components/question"
 
 function Test(){
     const sports = "Soccer"
